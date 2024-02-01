@@ -16,7 +16,7 @@ node server.js
 The system allows you to perform the following actions as seen in this video, specifically CRUD operations.
 
 ## Video Walkthrough
-https://drive.google.com/file/d/1Ql68eQQ3Ih0bDHEhVkVfLXbS9l2mGTHi/viewLinks to an external site.
+https://drive.google.com/file/d/1Ql68eQQ3Ih0bDHEhVkVfLXbS9l2mGTHi
 
 ## Code Overview
 server.js: Entry point of the application, prompts the user for actions and invokes corresponding functions. ./config/connection.js: Configuration for Sequelize database connection. ./models: Contains category, product, productTag, and tag.
